@@ -1,4 +1,4 @@
-# Popup Control for ASP.NET Web Forms - How to return values from the сontent сollection and close the pop-up window on the client and server
+# Popup Control for ASP.NET Web Forms - How to return values from the сontent сollection and close the pop-up window on the client or server
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e3084/)**
 <!-- run online end -->
