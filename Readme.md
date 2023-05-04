@@ -11,7 +11,7 @@
 <!-- default file list end -->
 # How to return values from the ASPxPopupControl's ContentCollection and close the popup on both client and server sides
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3084/)**
+**[[Run Online]](https://codecentral.devexpress.com/128565034/)**
 <!-- run online end -->
 
 
