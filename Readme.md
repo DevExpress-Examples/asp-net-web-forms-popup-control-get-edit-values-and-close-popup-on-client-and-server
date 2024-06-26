@@ -2,6 +2,7 @@
 ![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128565034/13.1.4%2B)
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E3084)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
+[![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
 <!-- default badges end -->
 # Popup Control for ASP.NET Web Forms - How to return values from the content collection and close the pop-up window on the client or server
 
@@ -67,3 +68,10 @@ You can also get the editor's value to display it in an alert message.
 
 * [Popup Control for ASP.NET Web Forms - How to pass a parameter from the content to parent page](https://github.com/DevExpress-Examples/asp-net-web-forms-popup-control-pass-parameter-from-content-to-parent-page)
 * [How to return values from the ASPxPopupControl's ContentUrl page and close the popup on both client and server sides](https://github.com/DevExpress-Examples/how-to-return-values-from-the-aspxpopupcontrols-contenturl-page-and-close-the-popup-on-both-e3098)
+<!-- feedback -->
+## Does this example address your development requirements/objectives?
+
+[<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-popup-control-get-edit-values-and-close-popup-on-client-and-server&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-popup-control-get-edit-values-and-close-popup-on-client-and-server&~~~was_helpful=no)
+
+(you will be redirected to DevExpress.com to submit your response)
+<!-- feedback end -->
