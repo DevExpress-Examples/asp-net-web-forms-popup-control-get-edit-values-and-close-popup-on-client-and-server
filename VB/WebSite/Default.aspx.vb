@@ -1,7 +1,7 @@
-Imports Microsoft.VisualBasic
-Imports System
+﻿Imports System
 Partial Public Class _Default
 	Inherits System.Web.UI.Page
+
 	Protected Sub btnServer_Click(ByVal sender As Object, ByVal e As EventArgs)
 		popup.ShowOnPageLoad = False
 		Dim startUpScript As String = String.Format("ShowInfo('Server', '{0}');", textBox.Text)
